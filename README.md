@@ -4,4 +4,3 @@
 - 💬 Ask me about Go, Node JS, Python, Redis, React, Firebase and Flutter
 - 📫 How to reach me: Visit My Website
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I love speed
